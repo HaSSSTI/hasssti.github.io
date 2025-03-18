@@ -1,5 +1,73 @@
 ---
-title: "My Quarto Webpage"
+title: "Hasti Nafisi - AI & ML Scientist"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/your-linkedin-profile
+    - icon: github
+      text: GitHub
+      href: https://github.com/HaSSSTI
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/your-twitter-handle
+    - icon: envelope
+      text: Email
+      href: mailto:hasti.nafisi20@gmail.com
 ---
 
-Hello! This is my updated CV hosted on GitHub.
+## Profile
+Accomplished AI & ML Scientist with a robust background in applied mathematics and computer science. Proven track record of building scalable, production-ready applications using Python frameworks and Generative AI (GenAI). Expert in developing and implementing enterprise-level AI solutions, including Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) patterns, and agentic workflows. Demonstrated expertise in fine-tuning LLMs, implementing RAG patterns, and developing agentic workflows for superior Natural Language Processing (NLP) performance. Skilled in utilizing API frameworks (FastAPI), Azure, AWS, Docker, and Git.
+
+## Experience
+- **AI & ML Scientist**  
+  *Remote, Canada | MUUTAA*  
+  *Feb 2025 - Present*  
+  - Developed enterprise-grade Python applications integrating LangChain and Landgraph frameworks to power multi-agent systems for the multisource chatbot Tavily.  
+  - Implemented database solutions with DataGrid and unstructured data to create efficient data architectures, optimizing LLM performance and query responses, resulting in a 5% improvement in time consumption.  
+  - Developed specialized LLM-to-database interfaces enabling AI systems to intelligently query, retrieve, and manipulate structured and unstructured data (Vector DBs) in real-time.
+
+- **AI & ML Engineer**  
+  *Montreal, Canada | Nexadeeds*  
+  *Mar 2024 - Dec 2024*  
+  - Developed and fine-tuned machine learning models integrating LLMs (e.g., GPT, Gemini, Llama, Groq) to enhance NLP capabilities.  
+  - Built robust enterprise API integrations implementing RAG algorithms with FastAPI and Azure cloud AI services for production environments.  
+  - Engineered scalable data pipelines in Python (using Pandas, scikit-learn, and SQL) to optimize data ingestion, reducing manual processing time by 8%.  
+  - Designed interactive dashboards (Power BI, Tableau) to monitor operational metrics and support decision-making.
+
+- **AI Researcher**  
+  *Montreal, Canada | Mila (Quebec AI Institute)*  
+  *Sep 2022 - Dec 2023*  
+  - Developed a Bayesian statistical model with a novel prior using MCMC algorithms, enhancing galaxy image reconstruction performance by 12%.  
+  - Applied deep learning and statistical ML models (using JAX) to analyze astronomy images for accurate identification of celestial objects.  
+  - Collaborated with interdisciplinary teams on gravitational lensing analysis and galaxy reconstruction techniques.
+
+- **Data Scientist**  
+  *Tehran, Iran | Coin Plus*  
+  *2017 - 2020*  
+  - Designed and implemented ML models, including LSTM-based forecasting, to analyze and forecast stock market price trends, improving prediction accuracy by 5%.  
+  - Collected, cleaned, and organized time series data to develop detailed forecasts for revenue and profitability.  
+  - Produced and analyzed financial reports to support strategic planning.
+
+## Education
+- **M.Sc. Applied Mathematics & Computer Science (3.9/4.3)**  
+  *Montreal, Canada | Montreal University and Mila*  
+  *2021 - 2024*  
+  - Dissertation: Horseshoe Regularization for Fully Wavelet-based Lensing Inversion  
+
+- **M.Sc. Financial Mathematics (19/20)**  
+  *Tehran, Iran | Science and Culture University*  
+  *2013 - 2015*  
+  - Dissertation: Developing Jump Diffusion Models for Stock Market Trends Using Sentiment Analysis  
+
+- **B.Sc. Applied Mathematics**  
+  *Tehran, Iran | Alzahra University*  
+  *2009 - 2013*
+
+## Skills
+- **Programming Languages**: Python, SAS, MATLAB, R, SQL  
+- **Data Science & ML**: Pandas, NumPy, Scikit-learn, Spark, TensorFlow, PyTorch, JAX, Keras, XGBoost, Hugging Face, Matplotlib, Photoshop, Seaborn, Power BI, Tableau  
+- **DevOps & Version Control**: Git, CI/CD, Agile methodologies, PyCharm, spaCy, DataGrip, PostgreSQL, Postman, Azure, AWS, Hugging Face  
+- **Specialized Areas**: Deep Learning, NLP, Transformers, API Development, Computer Vision, LLMs, GenAI, RAG
