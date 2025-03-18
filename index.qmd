@@ -16,7 +16,7 @@ about:
 ---
 
 ## Profile
-Accomplished AI & ML Scientist with a robust background in applied mathematics and computer science. Proven track record of building scalable, production-ready applications using Python frameworks and Generative AI (GenAI). Expert in developing and implementing enterprise-level AI solutions, including Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) patterns, and agentic workflows. Demonstrated expertise in fine-tuning LLMs, implementing RAG patterns, and developing agentic workflows for superior Natural Language Processing (NLP) performance. Skilled in utilizing API frameworks (FastAPI), Azure, AWS, Docker, and Git.
+An accomplished AI & ML Scientist brings a robust foundation in applied mathematics and computer science, complemented by a proven track record of designing and deploying scalable, production-ready applications leveraging Python frameworks and Generative AI (GenAI). This expertise extends to the development and implementation of enterprise-level AI solutions, encompassing Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) patterns, and agentic workflows, with demonstrated proficiency in fine-tuning LLMs and optimizing RAG patterns to enhance Natural Language Processing (NLP) performance. The skill set is further enriched by adept utilization of API frameworks such as FastAPI, alongside proficiency in Azure, AWS, Docker, and Git, ensuring seamless integration and deployment of advanced technological solutions.
 
 ## Experience
 - **AI & ML Scientist**  
