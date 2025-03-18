@@ -12,13 +12,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Ensure full history is fetched to avoid shallow clone issues
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          clean: true
 
       - name: Debug Git
         run: |
           git --version
           git status
           git remote -v
+          ls -la
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -29,5 +32,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: _site
+          force_orphan: true
