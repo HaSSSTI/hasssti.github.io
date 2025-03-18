@@ -67,5 +67,5 @@ Accomplished AI & ML Scientist with a robust background in applied mathematics a
 - **Programming Languages**: Python, SAS, MATLAB, R, SQL  
 - **Data Science & ML**: Pandas, NumPy, Scikit-learn, Spark, TensorFlow, PyTorch, JAX, Keras, XGBoost, Hugging Face, Matplotlib, Photoshop, Seaborn, Power BI, Tableau  
 - **DevOps & Version Control**: Git Version Control, CI/CD, Agile methodologies, PyCharm, spaCy, DataGrip, PostgreSQL, Postman, Azure, AWS, Hugging Face  
-- Research Methodologies (Experimental Design, Peer Review, Interdisciplinary Collaboration
+- **Research Methodologies**: Experimental Design, Peer Review, Interdisciplinary Collaboration
 - **Specialized Areas**: Deep Learning, NLP, Transformers, API Development, Computer Vision, LLMs, GenAI, RAG  
