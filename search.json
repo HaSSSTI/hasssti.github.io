@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hasti Nafisi AI & ML Scientist",
+    "section": "",
+    "text": "An accomplished AI & ML Scientist brings a robust foundation in applied mathematics and computer science, complemented by a proven track record of designing and deploying scalable, production-ready applications leveraging Python frameworks and Generative AI (GenAI). This expertise extends to the development and implementation of enterprise-level AI solutions, encompassing Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) patterns, and agentic workflows, with demonstrated proficiency in fine-tuning LLMs and optimizing RAG patterns to enhance Natural Language Processing (NLP) performance. The skill set is further enriched by adept utilization of API frameworks such as FastAPI, alongside proficiency in Azure, AWS, Docker, and Git, ensuring seamless integration and deployment of advanced technological solutions."
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Hasti Nafisi AI & ML Scientist",
+    "section": "",
+    "text": "An accomplished AI & ML Scientist brings a robust foundation in applied mathematics and computer science, complemented by a proven track record of designing and deploying scalable, production-ready applications leveraging Python frameworks and Generative AI (GenAI). This expertise extends to the development and implementation of enterprise-level AI solutions, encompassing Large Language Model (LLM) applications, Retrieval-Augmented Generation (RAG) patterns, and agentic workflows, with demonstrated proficiency in fine-tuning LLMs and optimizing RAG patterns to enhance Natural Language Processing (NLP) performance. The skill set is further enriched by adept utilization of API frameworks such as FastAPI, alongside proficiency in Azure, AWS, Docker, and Git, ensuring seamless integration and deployment of advanced technological solutions."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hasti Nafisi AI & ML Scientist",
+    "section": "Experience",
+    "text": "Experience\n\nAI & ML Scientist\nRemote, Canada | MUUTAA\nFeb 2025 - Present\n\nDeveloped enterprise-grade Python applications integrating LangChain and Landgraph frameworks to power multi-agent systems for the multisource chatbot Tavily.\n\nImplemented database solutions with DataGrid and unstructured data to create efficient data architectures, optimizing LLM performance and query responses, resulting in a 5% improvement in time consumption.\n\nDeveloped specialized LLM-to-database interfaces enabling AI systems to intelligently query, retrieve, and manipulate structured and unstructured data (Vector DBs) in real-time.\n\nAI & ML Engineer\nMontreal, Canada | Nexadeeds\nMar 2024 - Dec 2024\n\nDeveloped and fine-tuned machine learning models integrating LLMs (e.g., GPT, Gemini, Llama, Groq) to enhance NLP capabilities.\n\nBuilt robust enterprise API integrations implementing RAG algorithms with FastAPI and Azure cloud AI services for production environments.\n\nEngineered scalable data pipelines in Python (using Pandas, scikit-learn, and SQL) to optimize data ingestion, reducing manual processing time by 8%.\n\nDesigned interactive dashboards (Power BI, Tableau) to monitor operational metrics and support decision-making.\n\nAI Researcher\nMontreal, Canada | Mila (Quebec AI Institute)\nSep 2022 - Dec 2023\n\nDeveloped a Bayesian statistical model with a novel prior using MCMC algorithms, enhancing galaxy image reconstruction performance by 12%.\n\nApplied deep learning and statistical ML models (using JAX) to analyze astronomy images for accurate identification of celestial objects.\n\nCollaborated with interdisciplinary teams on gravitational lensing analysis and galaxy reconstruction techniques.\n\nData Scientist\nTehran, Iran | Coin Plus\n2017 - 2020\n\nDesigned and implemented ML models, including LSTM-based forecasting, to analyze and forecast stock market price trends, improving prediction accuracy by 5%.\n\nCollected, cleaned, and organized time series data to develop detailed forecasts for revenue and profitability.\n\nProduced and analyzed financial reports to support strategic planning."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hasti Nafisi AI & ML Scientist",
+    "section": "Education",
+    "text": "Education\n\nM.Sc. Applied Mathematics & Computer Science (3.9/4.3)\nMontreal, Canada | Montreal University and Mila\n2021 - 2024\n\nDissertation: Horseshoe Regularization for Fully Wavelet-based Lensing Inversion\n\nM.Sc. Financial Mathematics (19/20)\nTehran, Iran | Science and Culture University\n2013 - 2015\n\nDissertation: Developing Jump Diffusion Models for Stock Market Trends Using Sentiment Analysis\n\nB.Sc. Applied Mathematics\nTehran, Iran | Alzahra University\n2009 - 2013"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Hasti Nafisi AI & ML Scientist",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages: Python, SAS, MATLAB, R, SQL\n\nData Science & ML: Pandas, NumPy, Scikit-learn, Spark, TensorFlow, PyTorch, JAX, Keras, XGBoost, Hugging Face, Matplotlib, Photoshop, Seaborn, Power BI, Tableau\n\nDevOps & Version Control: Git Version Control, CI/CD, Agile methodologies, PyCharm, spaCy, DataGrip, PostgreSQL, Postman, Azure, AWS, Hugging Face\n\nResearch Methodologies: Experimental Design, Peer Review, Interdisciplinary Collaboration\nSpecialized Areas: Deep Learning, NLP, Transformers, API Development, Computer Vision, LLMs, GenAI, RAG"
+  }
+]
