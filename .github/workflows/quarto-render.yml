@@ -11,6 +11,14 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Ensure full history is fetched to avoid shallow clone issues
+
+      - name: Debug Git
+        run: |
+          git --version
+          git status
+          git remote -v
 
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
