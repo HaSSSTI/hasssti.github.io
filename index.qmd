@@ -6,13 +6,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/your-linkedin-profile
+      href: http://www.linkedin.com/in/hasti-nafisi
     - icon: github
       text: GitHub
       href: https://github.com/HaSSSTI
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/your-twitter-handle
     - icon: envelope
       text: Email
       href: mailto:hasti.nafisi20@gmail.com
@@ -69,5 +66,6 @@ Accomplished AI & ML Scientist with a robust background in applied mathematics a
 ## Skills
 - **Programming Languages**: Python, SAS, MATLAB, R, SQL  
 - **Data Science & ML**: Pandas, NumPy, Scikit-learn, Spark, TensorFlow, PyTorch, JAX, Keras, XGBoost, Hugging Face, Matplotlib, Photoshop, Seaborn, Power BI, Tableau  
-- **DevOps & Version Control**: Git, CI/CD, Agile methodologies, PyCharm, spaCy, DataGrip, PostgreSQL, Postman, Azure, AWS, Hugging Face  
-- **Specialized Areas**: Deep Learning, NLP, Transformers, API Development, Computer Vision, LLMs, GenAI, RAG
+- **DevOps & Version Control**: Git Version Control, CI/CD, Agile methodologies, PyCharm, spaCy, DataGrip, PostgreSQL, Postman, Azure, AWS, Hugging Face  
+- Research Methodologies (Experimental Design, Peer Review, Interdisciplinary Collaboration
+- **Specialized Areas**: Deep Learning, NLP, Transformers, API Development, Computer Vision, LLMs, GenAI, RAG  
