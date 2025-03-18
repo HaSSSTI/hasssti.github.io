@@ -1,14 +1,10 @@
 ---
-title: "Hasti Nafisi"
+title: "Hasti Nafisi 
+
+        AI & ML Scientist"
 about:
   template: trestles
   image: profile.jpg
-  id: custom-title
-  html: |
-    <div style="text-align: center;">
-      <h1>Hasti Nafisi</h1>
-      <h2>AI & ML Scientist</h2>
-    </div>
   links:
     - icon: linkedin
       text: LinkedIn
