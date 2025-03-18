@@ -1,6 +1,6 @@
 ---
 title: "Hasti Nafisi 
-AI & ML Scientist"
+        AI & ML Scientist"
 about:
   template: trestles
   image: profile.jpg
